@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Archivo de datos del proyecto integrador de Lenguajes de Marcas -->
+<catalogo propietario="gonzaloaragar-svg">
+    <item id="juegos-clasicos">
+        <nombre>Juegos clásicos</nombre>
+        <categoria>Entretenimiento</categoria>
+        <descripcion>Plataformas y aventuras con un estilo retro muy reconocido.</descripcion>
+        <valor unidad="euros">49.99</valor>
+        <destacado/>
+    </item>
+    <item id="recursos-visuales">
+        <nombre>Recursos visuales</nombre>
+        <categoria>Diseño</categoria>
+        <descripcion>Elementos gráficos de estética nostálgica para la presentación del proyecto.</descripcion>
+        <valor unidad="euros">32.50</valor>
+        <destacado/>
+    </item>
+    <item id="contenido-organizado">
+        <nombre>Contenido organizado</nombre>
+        <categoria>Catalogación</categoria>
+        <descripcion>Listas y secciones estructuradas para mostrar la información con claridad.</descripcion>
+        <valor unidad="euros">21.00</valor>
+        <destacado/>
+    </item>
+</catalogo>
